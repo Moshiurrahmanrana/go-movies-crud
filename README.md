@@ -99,17 +99,11 @@ curl -X POST http://localhost:8000/movies \
 curl http://localhost:8000/movies
 ```
 
-## Project Structure
-
 ## Technologies Used
 
 - Go
 - Gorilla Mux
 - JSON
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Contributing
 
